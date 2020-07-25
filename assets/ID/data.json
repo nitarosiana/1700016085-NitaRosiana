@@ -1267,9 +1267,9 @@
         "Propinsi": "SULAWESI TENGAH",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000",
         "charts": [{
-                "title": "Jumlah Kelurahan/Desa di Propinsi Sulawesi Tengah",
+                "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "BarChart",
-                "columns": ["Kabupaten/Kota", "Kelurahan/Desa"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
                     ["Banggai", 337],
                     ["Banggai Kepulauan", 144],
@@ -1289,7 +1289,7 @@
             {
                 "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "ScatterChart",
-                "columns": ["Kabupaten/Kota", "Kelurahan/Desa"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
                     ["Banggai", 337],
                     ["Banggai Kepulauan", 144],
@@ -1309,7 +1309,7 @@
             {
                 "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "LineChart",
-                "columns": ["Kabupaten/Kota", "Kelurahan/Desa"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
                     ["Banggai", 337],
                     ["Banggai Kepulauan", 144],
@@ -1329,7 +1329,7 @@
             {
                 "title": "Jumlah Kelurahan di Propinsi Sulawesi Tengah",
                 "type": "PieChart",
-                "columns": ["Kabupaten/Kota", "Kelurahan/Desa"],
+                "columns": ["Kabupaten/Kota", "Kelurahan"],
                 "data": [
                     ["Banggai", 337],
                     ["Banggai Kepulauan", 144],
